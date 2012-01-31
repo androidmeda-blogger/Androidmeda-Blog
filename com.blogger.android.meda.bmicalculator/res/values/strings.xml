@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BMICalculatorActivity!</string>
+    <string name="app_name">BMI Calculator</string>
+    <string name="heightLabel">Your Height (feets)</string>
+    <string name="calculateButton">Calculate</string>
+    <string name="EmptyString"></string>
+    <string name="weightLabel">Your Weight (lbs)</string>
+    
+
+</resources>
